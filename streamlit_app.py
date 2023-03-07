@@ -8,5 +8,5 @@ streamlit.text (' Hrad Boiled Free Range Egg')
 
 streamlit.header(' Buid your own fruit smoothie')
 my_fruit_list = pandas.read_csv(pandas.read_csv("https://uni-lab-files.s3.us-west-2.amazonaws.com/dabw/fruit_macros.txt")
-                                streamlit.dataframe(my_fruit_list)
+ streamlit.dataframe(my_fruit_list)
   
